@@ -1,2 +1,2 @@
 # HelloWorld
-Starting the github and VCS journey!
+Embarking on the github and VCS journey!
